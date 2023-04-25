@@ -1,2 +1,2 @@
 # projetos_iniciais
-Projetos Iniciais em Python
+Um gerador básico em python (não foi POO)
