@@ -1,3 +1,5 @@
-# projetos_iniciais 
+# gerador_de_cpf
 
-Nesse repositório colocarei meus primeiros projetos em Python.
+Gerador de CPF utilizando python e as libs re e random.
+
+Ainda não sei programar orientado a objetos
